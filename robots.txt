@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://derfr123.github.io/josozu44/sitemap.xml
